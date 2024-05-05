@@ -1,18 +1,40 @@
-<h1 align="center">Hi 👋, I'm Subham Burman</h1>
-<h3 align="center">A passionate Software Engineering Student</h3>
-<img align="right" alt="CodingGif" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+### Hi there 👋, I am [Subham Burman](https://rusty-sj.github.io/)! 😁
+<!--
+**rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
-- My Blog Channel [https://hashnode.com/@SubhamBurman12](https://hashnode.com/@SubhamBurman12)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with Statistics
+- 👯 I’m looking to collaborate on ...
+-->
 
-- 📫 How to reach me **burmansubham123@gmail.com**
+Hello, I'm Subham Burman a prefinal year student at [Institute Of Engineering and Management](https://iem.edu.in/) majoring in Information Technology. I'm a machine learning enthusiast and backend developer. My technology stack involves C/C++, Python, , MySQL, javascript, React.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://hashnode.com/@subhamburman12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@subhamburman12" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shivay_5420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivay_5420" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/subham_burman12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subham_burman12" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/subhbur2x8d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhbur2x8d" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 📫 How to reach me: subhburman542@gmail.com
+- 😄 Pronouns: Programmer/He/His/Him
+- ⚡ My LinkedIn: Checkout my [LinkedIn](
+linkedin.com/in/subham-burman-8a9b8422a) 
+- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
+- My LeetCode : [leetcode](https://leetcode.com/u/Subham_Burman12/)
+
+**Languages and Tools:** 
+
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;`
