@@ -23,7 +23,7 @@ Hello, I'm Subham Burman a prefinal year student at [Institute Of Engineering an
 - 😄 Pronouns: Programmer/He/His/Him
 - ⚡ My LinkedIn: Checkout my [LinkedIn](
 linkedin.com/in/subham-burman-8a9b8422a) 
-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
+- 📝 [Resume](https://drive.google.com/file/d/1WxI6b39vzbyheU3_aKf6oBz2QkaZHT-Q/view?usp=sharing)
 - My LeetCode : [leetcode](https://leetcode.com/u/Subham_Burman12/)
 
 
